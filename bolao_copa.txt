@@ -1,0 +1,198 @@
+{
+  "nome": "RENE ESTEVAM DECKERS",
+  "turma": "DEEP LEARNING E PROCESSAMENTO DE LINGUAGEM NATURAL - 2º BIM 2026",
+  "resultados": {
+    "jogo1": {
+      "MEX": {
+        "gols": 2
+      },
+      "RSA": {
+        "gols": 1
+      }
+    },
+    "jogo2": {
+      "KOR": {
+        "gols": 1
+      },
+      "CZE": {
+        "gols": 1
+      }
+    },
+    "jogo3": {
+      "CAN": {
+        "gols": 2
+      },
+      "BIH": {
+        "gols": 1
+      }
+    },
+    "jogo4": {
+      "USA": {
+        "gols": 1
+      },
+      "PAR": {
+        "gols": 1
+      }
+    },
+    "jogo5": {
+      "HAI": {
+        "gols": 1
+      },
+      "SCO": {
+        "gols": 2
+      }
+    },
+    "jogo6": {
+      "AUS": {
+        "gols": 1
+      },
+      "TUR": {
+        "gols": 1
+      }
+    },
+    "jogo7": {
+      "BRA": {
+        "gols": 3
+      },
+      "MAR": {
+        "gols": 1
+      }
+    },
+    "jogo8": {
+      "QAT": {
+        "gols": 1
+      },
+      "SUI": {
+        "gols": 2
+      }
+    },
+    "jogo9": {
+      "CIV": {
+        "gols": 1
+      },
+      "ECU": {
+        "gols": 2
+      }
+    },
+    "jogo10": {
+      "GER": {
+        "gols": 3
+      },
+      "CUW": {
+        "gols": 1
+      }
+    },
+    "jogo11": {
+      "NED": {
+        "gols": 1
+      },
+      "JPN": {
+        "gols": 1
+      }
+    },
+    "jogo12": {
+      "SWE": {
+        "gols": 1
+      },
+      "TUN": {
+        "gols": 1
+      }
+    },
+    "jogo13": {
+      "KSA": {
+        "gols": 1
+      },
+      "URU": {
+        "gols": 2
+      }
+    },
+    "jogo14": {
+      "ESP": {
+        "gols": 3
+      },
+      "CPV": {
+        "gols": 1
+      }
+    },
+    "jogo15": {
+      "IRN": {
+        "gols": 2
+      },
+      "NZL": {
+        "gols": 1
+      }
+    },
+    "jogo16": {
+      "BEL": {
+        "gols": 2
+      },
+      "EGY": {
+        "gols": 1
+      }
+    },
+    "jogo17": {
+      "FRA": {
+        "gols": 2
+      },
+      "SEN": {
+        "gols": 1
+      }
+    },
+    "jogo18": {
+      "IRQ": {
+        "gols": 1
+      },
+      "NOR": {
+        "gols": 2
+      }
+    },
+    "jogo19": {
+      "ARG": {
+        "gols": 2
+      },
+      "ALG": {
+        "gols": 1
+      }
+    },
+    "jogo20": {
+      "AUT": {
+        "gols": 2
+      },
+      "JOR": {
+        "gols": 1
+      }
+    },
+    "jogo21": {
+      "GHA": {
+        "gols": 1
+      },
+      "PAN": {
+        "gols": 2
+      }
+    },
+    "jogo22": {
+      "ENG": {
+        "gols": 1
+      },
+      "CRO": {
+        "gols": 1
+      }
+    },
+    "jogo23": {
+      "POR": {
+        "gols": 2
+      },
+      "COD": {
+        "gols": 1
+      }
+    },
+    "jogo24": {
+      "UZB": {
+        "gols": 1
+      },
+      "COL": {
+        "gols": 2
+      }
+    }
+  }
+}

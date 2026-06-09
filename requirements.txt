@@ -1,0 +1,6 @@
+# Requer Python 3.10–3.13 (TensorFlow ainda não suporta 3.14 no Windows)
+# Versões testadas: tensorflow 2.21, pandas 3.0, numpy 2.4, requests 2.34
+tensorflow>=2.16
+pandas>=2.0
+numpy>=1.24
+requests>=2.31

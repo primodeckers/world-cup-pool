@@ -1,0 +1,29 @@
+# Ambiente virtual
+.venv/
+
+# Notebook legado (projeto usa scripts Python)
+notebooks/
+.ipynb_checkpoints/
+
+ROADMAP.md
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Dados locais (baixados na Fase 2)
+data/raw/*
+!data/raw/.gitkeep
+data/processed/*
+!data/processed/.gitkeep
+
+# Saídas temporárias
+outputs/*
+!outputs/.gitkeep
